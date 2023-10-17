@@ -111,8 +111,10 @@ By following these steps, you can successfully transform your design thinking co
 
 
 PHASE 3:PROJECT DEVELOPMENT
+
 INTRODUCTION:
-	Developing a traffic management project using Wokwi, a platform that allows you to simulate and program electronic circuits, can be an interesting and educational project. To create such a project, you'll need to use virtual components, microcontrollers, sensors, and actuators to simulate and control traffic. Here's a step-by-step guide to creating a basic traffic management system using Wokwi:
+	Developing a traffic management project using Wokwi, a platform that allows you to simulate and program electronic circuits, can be an interesting and educational project. To create such a project, you'll need to use virtual components, microcontrollers, sensors, and actuators to simulate and control traffic. Here's a step-by-step guide to creating a basic traffic management system using Wokwi
+
 1.Sign Up for Wokwi:
 	If you haven't already, sign up for a Wokwi account and familiarize yourself with the platform.
 
